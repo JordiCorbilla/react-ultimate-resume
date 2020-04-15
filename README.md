@@ -56,6 +56,8 @@ Fork this repository. `git clone` your fork 💪
 
 Install
 
+Download the latest version for windows here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
+
 ```
 yarn install
 ```
